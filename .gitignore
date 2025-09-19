@@ -1,0 +1,18 @@
+# Node/IDE/system
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+node_modules/
+
+# Build artifacts (if any)
+dist/
+build/
+temp/
+tmp/
+
+# OS specific
+Desktop.ini
+*.tmp
+
